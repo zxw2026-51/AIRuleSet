@@ -1,0 +1,16 @@
+# =========================
+# GitHub Copilot
+# =========================
+HOST-SUFFIX,githubcopilot.com,AI
+HOST,copilot-proxy.githubusercontent.com,AI
+
+
+# =========================
+# OpenAI / ChatGPT
+# =========================
+HOST-SUFFIX,chatgpt.com,AI
+HOST-SUFFIX,auth.openai.com,AI
+HOST-SUFFIX,oaistatic.com,AI
+HOST-SUFFIX,oaiusercontent.com,AI
+HOST-SUFFIX,openai.com,AI
+HOST,challenges.cloudflare.com,AI
