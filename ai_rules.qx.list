@@ -15,3 +15,13 @@ HOST-SUFFIX,oaiusercontent.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST,challenges.cloudflare.com,AI
 HOST-SUFFIX,oaistatsig.com,AI
+
+# =========================
+# Claude
+# =========================
+HOST-SUFFIX,anthropic.com,AI
+HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,claude.app,AI
+HOST-SUFFIX,claude.com,AI
+HOST-SUFFIX,claudeusercontent.com,AI
+HOST,anthropic.auth0.com,AI
